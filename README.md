@@ -98,7 +98,7 @@
           En una umilde y vieja pc con linux y docker aprendo jugando, aca la
           interface de acceso
           <p></p>
-          <p><a href="http://docker..poch.ar" target="_top"><img
+          <p><a href="http://docker.poch.ar" target="_top"><img
 
                 src="portainer.png" alt="" style="width: 101px; height: 101px;"></a></p>
         </div>
